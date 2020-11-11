@@ -1,0 +1,59 @@
+.head {
+    background-color: #fdf8e5;
+    background: #fdf8e5;
+}
+.nav {
+    background-color: #fdf8e5;
+    background: #fdf8e5;
+}
+.btn-nav{
+    width:100% !important;
+    height:200px;            
+    background:blue;
+    position: absolute;     
+    left:0;                 
+    background: #fdf8e5;
+    padding-left:15px;      
+    padding-right:15px;
+}
+
+#btnGroupDrop-purple {
+        background: #8648bf url(https://www.mardigrasneworleans.com/templates/client/imagesNew/xpurple-bar.jpg.pagespeed.ic.nTC3OgsntX.jpg);
+        box-shadow: inset 21px 0 45px -10px rgba(0,0,0,.37), 1px 1px 10px rgba(0,0,0,.43);
+        border-bottom: 1px solid #ae7cde;
+}
+#btnGroupDrop-green {
+    background: #42990e url(https://www.mardigrasneworleans.com/templates/client/imagesNew/xgreen_bar.jpg.pagespeed.ic.pStel7pm_I.jpg);
+    box-shadow: inset 21px 0 45px -10px rgba(0,0,0,.37), 1px 1px 10px rgba(0,0,0,.43);
+    border-bottom: 1px solid #3db54b;
+}
+#btnGroupDrop-yellow {
+    background: #e1bd29 url(https://www.mardigrasneworleans.com/templates/client/imagesNew/xgold_bar.jpg.pagespeed.ic.YNJbxAxOqA.jpg);
+    box-shadow: inset 21px 0 45px -10px rgba(0,0,0,.43), 1px 1px 10px rgba(0,0,0,.43);
+    border-bottom: 1px solid #f3d345;
+   
+}
+
+ {
+}
+.overlay a .inner {
+    position: relative;
+    width: 10em;
+    height: 10em;
+    margin: .54em;
+    border-radius: 50%;
+    text-align: center;
+    background: #fff url(https://www.mardigrasneworleans.com/templates/client/imagesNew/xscheduleCTA.jpg.pagespeed.ic.yJXQyGrvN8.jpg) center;
+    box-shadow: 1px 1px 8px rgba(0,0,0,.48);
+    transform: rotate(-18deg);
+}
+.overlay a #outter {
+    font-size: 1em;
+    position: absolute;
+    margin: .23em;
+    width: 10.64em;
+    height: 10.64em;
+    border-radius: 50%;
+    background: #59258e url(https://www.mardigrasneworleans.com/templates/client/imagesNew/xcolorwheel.png.pagespeed.ic.67t0nvuILD.png) no-repeat center;
+    transition: .6s;
+}
